@@ -1,4 +1,4 @@
-package gupaoedu.vip.pattern.singleton.hungry;
+package gupaoedu.vip.pattern.pattren.singleton.hungry;
 
 public class HungrySingletonTest {
     public static void main(String[] args) {

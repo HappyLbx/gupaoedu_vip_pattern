@@ -1,4 +1,4 @@
-package gupaoedu.vip.pattern.singleton.lazy;
+package gupaoedu.vip.pattern.pattren.singleton.lazy;
 
 /**
  *  懒汉式单例：

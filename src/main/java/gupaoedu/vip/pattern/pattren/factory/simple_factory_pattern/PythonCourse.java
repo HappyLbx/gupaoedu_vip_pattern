@@ -1,4 +1,4 @@
-package gupaoedu.vip.pattern.factory.simple_factory_pattern;
+package gupaoedu.vip.pattern.pattren.factory.simple_factory_pattern;
 
 public class PythonCourse implements Course {
     public void record() {

@@ -1,4 +1,4 @@
-package gupaoedu.vip.pattern.singleton.hungry;
+package gupaoedu.vip.pattern.pattren.singleton.hungry;
 
 /**
  *  饿汉式单例模式
