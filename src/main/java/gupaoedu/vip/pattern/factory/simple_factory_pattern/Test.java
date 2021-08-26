@@ -22,13 +22,14 @@ public class Test {
 //        Course java = new CourseFactory().create(JavaCourse.class);
 //        java.record();
 
-        System.out.println("\\&".equals("&"));
-        String str = "";
-        String pattern = "a/&2";
-
-        Pattern r = Pattern.compile(pattern);
-        Matcher m = r.matcher(str);
-        System.out.println(m.matches());
+        // 验证为什么  \\& 等于&
+//        System.out.println("\\&".equals("&"));
+//        String str = "";
+//        String pattern = "a/&2";
+//
+//        Pattern r = Pattern.compile(pattern);
+//        Matcher m = r.matcher(str);
+//        System.out.println(m.matches());
 
     }
 }
